@@ -33,7 +33,7 @@ Estudiante de Administración de Sistemas Informáticos en Red (ASIR) apasionado
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [linkedin.com/in/alejandro-ten-monreal](https://linkedin.com/in/alejandro-ten-monreal)
+- 💼 LinkedIn: [linkedin.com/in/alejandro-ten-monreal](www.linkedin.com/in/alejandro-ten-monreal-94b691262)
 - 📧 Email: tenmonreala@gmail.com
 
 ---
